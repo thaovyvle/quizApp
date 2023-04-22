@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/quizApp/static/js/main.b3f3e930.js",
+    "static/js/942.d8be10f5.js": "/quizApp/static/js/942.d8be10f5.js",
+    "static/media/quizImg.png": "/quizApp/static/media/quizImg.67bfe8e5c0b3a8284bbd.png",
+    "favicon.ico": "/quizApp/favicon.ico",
+    "index.html": "/quizApp/index.html",
+    "static/media/rocket.png": "/quizApp/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/quizApp/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/quizApp/favicon-32.png",
+    "static/media/star.png": "/quizApp/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/quizApp/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/quizApp/favicon-16.png",
+    "manifest.json": "/quizApp/manifest.json",
+    "serve.json": "/quizApp/serve.json",
+    "main.b3f3e930.js.map": "/quizApp/static/js/main.b3f3e930.js.map",
+    "942.d8be10f5.js.map": "/quizApp/static/js/942.d8be10f5.js.map"
+  },
+  "entrypoints": [
+    "static/js/942.d8be10f5.js",
+    "static/js/main.b3f3e930.js"
+  ]
+}
