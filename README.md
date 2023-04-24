@@ -1,5 +1,7 @@
 # The Quiz App
 
+View The App Here: https://thaovyvle.github.io/quizApp/
+
 The app requires users to login or register an account which will require inputs and form validation. Users can login with the credentials "test" for the username and "Test1@" for the password. 
 
 A home screen will display buttons for each quiz types: multiple choice, multi-answer, true or false, math problems, and fill in the blank. These buttons will take users to the quiz screen where three questions from their selected quiz type will be displayed per screen. 
