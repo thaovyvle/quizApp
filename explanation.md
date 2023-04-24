@@ -1,5 +1,5 @@
 # Links 
-Respiratory: https://github.com/thaovyvle/quizApp
+Respirator: https://github.com/thaovyvle/quizApp
 GitHub Pages: https://thaovyvle.github.io/quizApp/
 Portfolio: https://thaovyvivian.wixsite.com/thaovyleportfolio
 
