@@ -6,11 +6,11 @@ View The App Here: https://thaovyvle.github.io/quizApp/
 
 Create a React Native project with three components and at least 3 screens in an independent repository.
 
-The three components should be used at least twice across the application with different parameters or route data (e.g. parameters, route params, etc).
+• The three components should be used at least twice across the application with different parameters or route data (e.g. parameters, route params, etc).
 
-At least one state should be manipulated in a component (no static text or images or elements).
+• At least one state should be manipulated in a component (no static text or images or elements).
 
-Each component must also contain some user interface element that changes the state in some way.
+• Each component must also contain some user interface element that changes the state in some way.
 
 ​
 
