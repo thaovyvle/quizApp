@@ -2,8 +2,26 @@
 
 View The App Here: https://thaovyvle.github.io/quizApp/
 
-The app requires users to login or register an account which will require inputs and form validation. Users can login with the credentials "test" for the username and "Test1@" for the password. 
+# Project Task:
 
-A home screen will display buttons for each quiz types: multiple choice, multi-answer, true or false, math problems, and fill in the blank. These buttons will take users to the quiz screen where three questions from their selected quiz type will be displayed per screen. 
+Create a React Native project with three components and at least 3 screens in an independent repository.
 
-Once the user answers all the questions, a summary screen will display the correct answers and the user's total score. 
+The three components should be used at least twice across the application with different parameters or route data (e.g. parameters, route params, etc).
+
+At least one state should be manipulated in a component (no static text or images or elements).
+
+Each component must also contain some user interface element that changes the state in some way.
+
+​
+
+# My Approach:
+
+I created a new React Native project called the Quiz App. I implemented a login and registration screen requiring inputs and form validation. I also designed the app's home screen to display different quiz types as buttons. The quiz types will be multiple choice, multi-answer, true or false, math problems, and fill in the blank. All the quizzes will have a summary screen at the end to display the correct answers and the user’s tallied score.
+
+ 
+
+To view the app, you can log in with these credentials:
+
+        username:     test
+
+        password:     Test1@
